@@ -1,0 +1,8 @@
+name: GameModePlugin
+main: me.noyzys.gamemode.GameModePlugin
+author: "n0YzyS"
+version: 1.0-SNAPSHOT
+
+commands:
+  gamemode:
+    aliases: [gm]
